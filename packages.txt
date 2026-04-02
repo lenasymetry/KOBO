@@ -1,5 +1,2 @@
 libssl-dev
 libffi-dev
-xvfb
-imagemagick
-fonts-dejavu
